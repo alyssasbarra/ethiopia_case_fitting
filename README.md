@@ -20,5 +20,5 @@ To run models with regional reporting rates, use script BCD_bootstrap_regional_r
 - Rcpp_rolling_average_estimated_no_eff_subnat_only_down_adjust_regional_reporting_vax_eff_vary2_loess_seasonal_serial_interval_incidence_autocorrelation_nbinom5_regional_reporting_bootstrap_district.cpp
 
 
-The remaining files are used for diagnositcs for boostrapped samples (diagnostics_bootstrap.R) and making predictions and overall diganostic plots (predict_and_diagnostics_overall.R).
+The remaining files are used for diagnostics for boostrapped samples (diagnostics_bootstrap.R) and making predictions and overall diganostic plots (predict_and_diagnostics_overall.R).
 
